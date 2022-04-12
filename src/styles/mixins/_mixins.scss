@@ -11,3 +11,15 @@
         }
     }
 }
+
+@mixin layout-section-base {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 7.2rem;
+}
+
+@mixin overflow-text {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
