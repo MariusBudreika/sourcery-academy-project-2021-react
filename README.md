@@ -1,4 +1,7 @@
-🚨 Be sure to update this file according to your team.
+## Log-in information
+
+Email: john.doe@gmail.com
+Password: inbif
 
 ## Run the project
 
